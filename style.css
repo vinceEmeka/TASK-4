@@ -16,7 +16,7 @@ body {
 .container {
   margin: 90px auto;
   width: 400px;
-  /* border: 1px solid white; */
+
   border-radius: 20px;
   box-shadow: 5px 6px 8px #010132;
   padding: 20px 30px;
